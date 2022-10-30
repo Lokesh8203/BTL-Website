@@ -1,0 +1,38 @@
+{
+  "main": {
+    "name":"Behind The Lens",
+    "description":"BTL description",
+    "bio":"Use this bio section to add more about BTL.",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "BTL mail id",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "#",
+    "social":[
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-facebook"
+      },
+      {
+        "name":"twitter",
+        "url":"#",
+        "className":"fa fa-twitter"
+      },
+      {
+        "name":"linkedin",
+        "url":"#",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"instagram",
+        "url":"#",
+        "className":"fa fa-instagram"
+      }
+    ]
+  }
+}
