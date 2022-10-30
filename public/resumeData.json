@@ -1,37 +1,53 @@
 {
   "main": {
-    "name":"Behind The Lens",
-    "description":"BTL description",
-    "bio":"Use this bio section to add more about BTL.",
-    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "name": "Behind The Lens",
+    "description": "BTL description",
+    "bio": "Use this bio section to add more about BTL.",
+    "contactmessage": "Here is where you should write your message to readers to have them get in contact with you.",
     "email": "BTL mail id",
-    "address":{
-      "street":"(Your Street)",
-      "city":"(Your City)",
-      "state":"(Your State)",
+    "address": {
+      "street": "(Your Street)",
+      "city": "(Your City)",
+      "state": "(Your State)",
       "zip": "(Your Zip/Postal Code)"
     },
     "website": "#",
-    "social":[
+    "social": [
       {
-        "name":"instagram",
-        "url":"#",
-        "className":"fa fa-facebook"
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-facebook"
       },
       {
-        "name":"twitter",
-        "url":"#",
-        "className":"fa fa-twitter"
+        "name": "twitter",
+        "url": "#",
+        "className": "fa fa-twitter"
       },
       {
-        "name":"linkedin",
-        "url":"#",
-        "className":"fa fa-linkedin"
+        "name": "linkedin",
+        "url": "#",
+        "className": "fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"#",
-        "className":"fa fa-instagram"
+        "name": "instagram",
+        "url": "#",
+        "className": "fa fa-instagram"
+      }
+    ]
+  },
+  "portfolio": {
+    "projects": [
+      {
+        "title": "Canadian Wanderlust",
+        "category": "category",
+        "image": "01.jpg",
+        "url": "#"
+      },
+      {
+        "title": "Fury Fighting Gear",
+        "category": "category",
+        "image": "02.jpg",
+        "url": "#"
       }
     ]
   }
